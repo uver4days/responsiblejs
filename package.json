@@ -1,0 +1,19 @@
+{
+  "name": "responsiblejs",
+  "version": "1.0.0",
+  "description": "Small project aimed at promoting responsible javascript development",
+  "main": "./bin/responsible.js",
+  "bin": "./bin/responsible.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uver4days/responsiblejs.git"
+  },
+  "author": "uver4days",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uver4days/responsiblejs/issues"
+  },
+  "homepage": "https://github.com/uver4days/responsiblejs#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
